@@ -1,0 +1,6 @@
+{
+  "name": "PhotoToVideo Story Studio",
+  "description": "أداة ذكية لصناعة ودمج فيديوهات واقعية من الصور الفوتوغرافية مع الحفاظ الصارم على ملامح الوجوه، تسجيل الصوت، والميكس الموسيقي وتصدير فيلم متكامل.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
